@@ -35,9 +35,7 @@ A SWE student @ Monash University.
 
 <br/>
 
-<a>
-  <img align="left" alt="Shourya's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
-</a>
+
 <a>
   <img align="left" alt="Shourya | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -50,8 +48,16 @@ A SWE student @ Monash University.
   <img align="left" alt="Shourya's HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/hackerrank.svg" />
 </a>
 <br/>
+<a>
+  <img align="left" alt="Shourya's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+</a>
+
+
 
 ![](https://komarev.com/ghpvc/?username=shouryaraj&color=green)
 <br/>
+
+
+
 
 
