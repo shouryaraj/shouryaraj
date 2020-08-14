@@ -12,8 +12,8 @@ A Software Engineering student @[Monash University](https://www.monash.edu/). I 
 
  A little more about me...
 
-- 🔭 I’m currently advancing in AI algorithms and making a ReactJs based student management system.  
-- 🌱 I’m currently learning about the database.
+- 🔭 I’m currently advancing in AI algorithms and making a MERN based student management system.  
+- 🌱 I’m currently learning about hardcore database concepts.
 - 👯 I’m looking to collaborate on optimization in any Algorithm.
 - ⚡ Fun fact: Only about 10% of the world’s currency is physical money, the rest only exists on computers.
 
