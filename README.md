@@ -2,6 +2,7 @@
 
 <br/>
 
+<img height="300px" width="400px" alt="GIF" src = "https://media.giphy.com/media/FPbnShq1h1IS5FQyPD/giphy.gif">
 
 Hello, I am shourya raj, a SWE student @ Monash University.
 
