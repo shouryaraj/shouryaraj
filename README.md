@@ -1,10 +1,10 @@
-## Hi, I'm Shourya Raj! 
+<img height="300px" width="400px" alt="GIF" src = "https://media.giphy.com/media/FPbnShq1h1IS5FQyPD/giphy.gif">
+
+### Hi, I'm Shourya Raj! 
 
 <br/>
 
-<img height="300px" width="400px" alt="GIF" src = "https://media.giphy.com/media/FPbnShq1h1IS5FQyPD/giphy.gif">
-
-Hello, I am shourya raj, a SWE student @ Monash University.
+A SWE student @ Monash University.
 
  A little more about me...
 
