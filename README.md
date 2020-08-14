@@ -1,10 +1,11 @@
-### Hi, I'm Shourya Raj! 
+## Hi, I'm Shourya Raj! 
 
-<!--
-**shouryaraj/shouryaraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
+<img align="center" alt="GIF" src = "https://media.giphy.com/media/3ohze15TQsHnWxQfm0/source.gif">
 
-<iframe src="https://giphy.com/embed/3ohze15TQsHnWxQfm0" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/storybots-coder-ask-the-storybots-3ohze15TQsHnWxQfm0">via GIPHY</a></p>
-Here are some ideas to get you started:
+Hello, I am shourya raj, a SWE student @ Monash University.
+
+ A little more about me...
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,4 +15,42 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
+
+
+
+
+<br/>
+
+<a>
+  <img align="left" alt="Shourya's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+</a>
+<a>
+  <img align="left" alt="Shourya | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a >
+  <img align="left" alt="Shourya's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+</a>
+</a>
+<a href="">
+  <img align="left" alt="Shourya's HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/hackerrank.svg" />
+</a>
+<br/>
+
+![](https://komarev.com/ghpvc/?username=shouryaraj&color=green)
+<br/>
+
+
