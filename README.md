@@ -28,34 +28,27 @@ A SWE student @ Monash University.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
-
-
-
-
 <br/>
 
-
-<a>
+<a href="https://discord.gg/qUbApEc">
+   <img align="left" alt="Shourya's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+</a>
+<a href="https://twitter.com/geeky_abhiz">
   <img align="left" alt="Shourya | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a >
+<a href="https://www.linkedin.com">
   <img align="left" alt="Shourya's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+<a href="https://www.reddit.com">
+  <img align="left" alt="Shourya's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
+<a href="https://leetcode.com">
+   <img align="left" alt="Shourya's HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/hackerrank.svg" />
 </a>
-<a href="">
-  <img align="left" alt="Shourya's HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/hackerrank.svg" />
-</a>
-<br/>
-<a>
-  <img align="left" alt="Shourya's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
-</a>
-<br/>
-
 
 ![](https://komarev.com/ghpvc/?username=shouryaraj&color=green)
-<br/>
+
+<br />
 
 
 
