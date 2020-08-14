@@ -2,6 +2,8 @@
 
 ### Hi, I'm Shourya! 
 
+Software Developer | Hobby Researcher
+
 <br/>
 
 A Software Engineering student @[Monash University](https://www.monash.edu/). I love tinkering around with technology. Passionate about the High performance computing, Artificial intelligence, Medtech and Space Technology. 
