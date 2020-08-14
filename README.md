@@ -1,7 +1,7 @@
 ## Hi, I'm Shourya Raj! 
 
 <br/>
-<img align="center" alt="GIF" src = "https://media.giphy.com/media/3ohze15TQsHnWxQfm0/source.gif">
+
 
 Hello, I am shourya raj, a SWE student @ Monash University.
 
