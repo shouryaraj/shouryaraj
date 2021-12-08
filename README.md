@@ -6,7 +6,7 @@ Software Developer | Hobby Researcher
 
 <br/>
 
-A Software Engineering student @[Monash University](https://www.monash.edu/) and Software Engineer @[LOKE](https://github.com/LOKE). I love tinkering around with technology. Passionate about Artificial intelligence and Algorithm Research.
+A Software Engineering student @[Monash University](https://www.monash.edu/). I love tinkering around with technology. Passionate about Artificial intelligence and Algorithm Research.
 
 
  A little more about me...
