@@ -2,21 +2,11 @@
 
 ### Hi, I'm Shourya! 
 
-Software Developer | Hobby Researcher
+Software Engineer | Hobby Researcher
 
 <br/>
 
-A Software Engineering student @[Monash University](https://www.monash.edu/). I love tinkering around with technology. Passionate about Artificial intelligence and Algorithm Research.
-
-
- A little more about me...
-
-- 🔭 I’m currently advancing in AI algorithms and making a MERN based student management system.  
-- 🌱 I’m currently learning about hardcore database concepts.
-- 👯 I’m looking to collaborate on optimization in any Algorithm.
-- ⚡ Fun fact: Only about 10% of the world’s currency is physical money, the rest only exists on computers.
-
-
+I love tinkering around with technology. Passionate about Artificial intelligence and Algorithm Research.
 
 **Languages and Tools:**  
 
